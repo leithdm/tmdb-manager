@@ -12,5 +12,6 @@
 # References
 https://www.themoviedb.org/faq/api?language=en
 
+[![TMDB Movie Manager](https://j.gifs.com/rkYykL.gif)](https://youtu.be/DCDKCQVrP0c)
 
 
