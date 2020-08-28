@@ -1,4 +1,4 @@
-## TMDB Movie Manager application - a Udacity project
+## TMDB Movie Manager application
 
 # TMDB movie manager features:
 
